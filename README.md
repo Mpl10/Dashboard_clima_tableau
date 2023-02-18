@@ -3,7 +3,7 @@
 El objetivo del proyecto es generar un dashboard para realizar un análisis de la situación climática en España en los últimos años. Para ello se ha partido de información obtenida a través de la API de AEMET y tratada con Python, que posteriormente se ha cargado a Tableau para analizarla.
 
 
-![](images/gvb.jpg)
+![](Images/gvb.jpg)
 
 
 Las principales métricas de estudio son las precipitaciones y la temperatura, y el rango temporal que abarca la información se sitúa entre el año 2000 y el 2023.
@@ -21,7 +21,7 @@ Este repositorio cuenta con la siguiente estructura:
 
 # Análisis y visualización
 
-![](images/tableau.png)
+![](Images/tableau.png)
 
 El análisis realizado con Tableau se divide en 3 bloques reflejados en 3 dashboard:
 
